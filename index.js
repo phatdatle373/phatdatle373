@@ -1,5 +1,5 @@
-const contentLetterSrart_actived = "Chúc mừng sinh nhật Thanh Vy."
-const mainContentLetter = "Hôm nay là ngày 12/6/2023, tui có đôi lời muốn gửi đến bà, nhân diệp sinh nhật bà tui chúc bà có một tuổi 17 thật thành công trong công việc và học tập. Chúc bà tuổi mới nở thiệt nhiều nụ cười và ngày càng sinh đẹp"
+const contentLetterSrart_actived = "hi"
+const mainContentLetter = "hi"
 
 // makeupspa-kit-theme-happy-birthday-bunting-paper-banner-party-supply-261454.png
 let imgStart = document.querySelector(".myAI"); //https://1drv.ms/i/s!AhCPvXF91zEyg1FhACRZHx42FcCL?e=kU7DXH
